@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url("https://images.pexels.com/photos/326333/pexels-photo-326333.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-position: center center;
+}
